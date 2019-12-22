@@ -8,7 +8,11 @@
 		<version>2.2.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+<<<<<<< HEAD
 	<groupId>app.psych</groupId>
+=======
+	<groupId>com.psych</groupId>
+>>>>>>> 70737c7f5ffddc9d3d6f62573e87bce2a775ea2c
 	<artifactId>game</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>game</name>
